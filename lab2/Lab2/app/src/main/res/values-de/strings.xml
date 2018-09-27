@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Guten Tag!</string>
+    <string name="lang">Taal</string>
+    <string name="reload">Verversen</string>
+    <string name="news">Nieuws</string>
+</resources>
