@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">lab3</string>
+    <string name="hello">Hello</string>
+    <string name="lang">Language</string>
+    <string name="reload">Refresh</string>
+    <string name="news">News</string>
+</resources>
