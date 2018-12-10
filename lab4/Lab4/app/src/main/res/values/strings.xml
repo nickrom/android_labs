@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="name_exp">ExplicitActivity works</string>
+    <string name="enter_any_text">Enter Any Text</string>
+    <string name="send_result">Send Result</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_intents">Implicit Intents</string>
+    <string name="intent_with_result">Intent with Result</string>
+    <string name="contacts">Contacts</string>
+    <string name="map">Map</string>
+    <string name="photo">Photo</string>
+    <string name="web">Web</string>
+    <string name="works">Works</string>
+    <string name="launch_activity_for_result">Launch Activity for Result</string>
+    <string name="no_result_yet">No Result Yet!</string>
+</resources>
