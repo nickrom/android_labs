@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="hello">Hello</string>
+    <string name="lang">Language</string>
+    <string name="reload">Refresh</string>
+    <string name="news">News</string>
+</resources>

@@ -1,4 +1,5 @@
-package android.nickrom.lab3;
+package android.nickrom.lab5;
+
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +10,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
+
 
 class ListAdapter extends RecyclerView.Adapter<ListAdapter.ElemViewHolder> {
 
